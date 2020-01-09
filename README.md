@@ -1,4 +1,4 @@
-# IntroductionToDataScienceDeepLearning_SZU
+# IntroductionToDataScienceDeepLearning_SZU_2019
 ## Shenzhen University  
 Computer Vision and Machine Learning Research Group  
 Instructor: Yan Yan  
