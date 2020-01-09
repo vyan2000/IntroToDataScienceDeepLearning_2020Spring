@@ -5,5 +5,5 @@ Instructor: Yan Yan
 Email: yyan@szu.edu.cn  
 Lec 1: basic software development techniques, data visualization using matplotlib  
 Lec 2: Introduction to Python and Data Structure  
-Lec 3~5: Object Detection and Deep Learning
+Lec 3-5: Object Detection and Deep Learning
 
